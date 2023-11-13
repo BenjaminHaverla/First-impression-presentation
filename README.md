@@ -9,3 +9,6 @@
 ![text description](Images/Storyboard_5.png)
 
 ## The performance in add
+![text description](Images/Performance_1.png)
+![text description](Images/Performance_4.png)
+![text description](Images/Performance_5.png)
