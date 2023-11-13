@@ -10,5 +10,5 @@
 
 ## The performance in add
 ![text description](Images/Performance_1.png)
-![text description](Images/Performance_4.png)
-![text description](Images/Performance_5.png)
+![text description](Images/Performance_2.png)
+![text description](Images/Performance_3.png)
