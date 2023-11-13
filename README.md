@@ -9,12 +9,12 @@
 ![text description](Images/Storyboard_5.png)
 
 ## UKUPHILA – experimental project (2021)
-![text description](Images/Green_1.png)
-![text description](Images/Green_2.png)
-![text description](Images/Green_3.png)
-![text description](Images/Green_4.png)
-![text description](Images/Green_5.png)
-![text description](Images/Green_6.png)
+![text description](Images/Green_1.jpg)
+![text description](Images/Green_2.jpg)
+![text description](Images/Green_3.jpg)
+![text description](Images/Green_4.jpg)
+![text description](Images/Green_5.jpg)
+
 
 # The performance in Add (2018)
 ![text description](Images/Performance_1.png)
