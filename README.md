@@ -1,4 +1,12 @@
 # Draft of my presentation
+- Direktorenhaus (current work)
+- Ai video labs (current work)
+- Animation/Film instructor for kid's camp (one week per year)
+
+**First impression** –> still searching for inspiration
+
+**ABOUT** –> 
+
 ## The project I'm working on (2023 – ???)
 ![text description](Images/Still_shot_scene1.png)
 ![text description](Images/Still_shot_scene2.png)
