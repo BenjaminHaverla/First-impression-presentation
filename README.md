@@ -5,7 +5,7 @@
 
 **First impression** –> still searching for inspiration
 
-**ABOUT** –> 
+**ABOUT** –> My name is Benjamín Haverla, and I live in Martin, Slovakia. I studied Information and Digital Technologies at Private Secondary Technical School in Poprad, founded by the Tatra Academy n. o. Currently, I am studying at the University of Creative Communication in Prague. I specialize in the Design Motion Copy department, which focuses on Animation and VFX.
 
 ## The project I'm working on (2023 – ???)
 ![text description](Images/Still_shot_scene1.png)
