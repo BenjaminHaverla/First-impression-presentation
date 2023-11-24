@@ -22,7 +22,7 @@ My main career goal is to become a film director. I'm aware of the thorny path, 
   
 - "1 DAY" (I was 18 years old) –> Live-action short film. We were awarded 2nd place in the Košice Slovak competition.
 
-In 2020, word about me and my work reached some people, leading me to create videos for clients. Over time, I created my first international short film, blending live-action and animated elements. Garnering awards and nominations, I chose to step into the background actor role, gaining insights into larger-scale film productions. Subsequently, I became an Animation/Film instructor for a kids' camp, held annually for one week. Currently, I'm gaining valuable experience as an intern in Berlin through Erasmus+. During this period, I'm also preparing a new international music video. To learn more, click without hesitation.
+In 2020, word about me and my work reached some people, leading me to create videos for clients. Over time, I created my first international short film, blending live-action and animated elements. Garnering awards and nominations, I chose to step into the background actor role, gaining insights into larger-scale film productions. Subsequently, I became an Animation/Film instructor for a kids' camp, held annually for one week. Currently, I'm gaining valuable experience as an intern in Berlin through Erasmus+. During this period, I'm also preparing a new international music video. To learn more, [click](https://github.com/BenjaminHaverla/Portfolio.git) without hesitation.
 
 ![text description](Images/Team.png)
 
