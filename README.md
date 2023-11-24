@@ -20,7 +20,7 @@ My main career goal is to become a film director. I'm aware of the thorny path, 
   
 - "1 DAY" (I was 18 years old) –> Live-action short film. We were awarded 2nd place in the Košice Slovak competition.
 
-In 2020 some people heard about me and my work and I started to create videos for some clients. After some time 
+In 2020 some people heard about me and my work and I started to create videos for some clients. After some time I created my first international short film with Live-action and animated elements. I received some awards and nominations and thanks to this I decided to be a background actor for some time to learn and see how the film process works at bigger productions. Later I became an Animation/Film instructor for a kid's camp which is always one week per year. Nowadays I am gaining new experience as an intern in Berlin thanks to Erasmus+. To see more click without hesitation.
 
 
 
