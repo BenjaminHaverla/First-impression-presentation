@@ -1,12 +1,12 @@
 # Visual storytelling is my passion:
-- **ABOUT**
+- **ABOUT ME**
 - **FEATURED PROJECTS**
 
 ![text description](Images/Profile.png)
 
-## Benjamín Haverla – Filmmaker
+## Benjamín Haverla – Filmmaker:
 
-## ABOUT ME:
+In my homeland of Slovakia, the gift of nature inspires my creativity. To learn more about me, click without hesitation.
 
 
 
