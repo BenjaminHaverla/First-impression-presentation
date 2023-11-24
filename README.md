@@ -20,7 +20,7 @@ My main career goal is to become a film director. I'm aware of the thorny path, 
   
 - "1 DAY" (I was 18 years old) –> Live-action short film. We were awarded 2nd place in the Košice Slovak competition.
 
-In 2020 some people heard about me and my work and I started to create videos for some clients. 
+In 2020 some people heard about me and my work and I started to create videos for some clients. After some time 
 
 
 
@@ -29,7 +29,7 @@ In 2020 some people heard about me and my work and I started to create videos fo
 - Ai video labs (current work)
 - Animation/Film instructor for kid's camp (one week per year)
 
-**First impression** –> still searching for inspiration
+
 
 **ABOUT** –> My name is Benjamín Haverla, and I live in Martin, Slovakia. I studied Information and Digital Technologies at Private Secondary Technical School in Poprad, founded by the Tatra Academy n. o. Currently, I am studying at the University of Creative Communication in Prague. I specialize in the Design Motion Copy department, which focuses on Animation and VFX.
 
