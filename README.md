@@ -8,6 +8,7 @@
 
 In my homeland of Slovakia, the gift of nature inspires my creativity. To learn more about me, click without hesitation.
 
+## FEATURED PROJECTS:
 
 
 
