@@ -50,4 +50,4 @@ In 2020, word about me and my work reached some people, leading me to create vid
 ![text description](Images/Performance_3.png)
 
 # Contact me:
-**Mail**: haverla.tros@gmail.com
+## **Mail**: haverla.tros@gmail.com
