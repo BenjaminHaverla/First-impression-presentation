@@ -19,6 +19,8 @@ My main career goal is to become a film director. I'm aware of the thorny path, 
 - "World of Plastic" (I was 15 years old) –> Animated LEGO short film. We were awarded 1st place in the Bratislava Slovak competition.
 
 - "Life with ISIC" (I was 16 years old) –> Music video about ISIC student card. We were awarded 1st place in the Košice Slovak competition. Thanks to this, I had the opportunity to be the main actor in short ISIC ads.
+
+- **"Mystery House trailer"** (2017 – I was 16 years old) –> We were awarded 1st place in Czechoslovak competition.
   
 - "1 DAY" (I was 18 years old) –> Live-action short film. We were awarded 2nd place in the Košice Slovak competition.
 
