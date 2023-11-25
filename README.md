@@ -44,8 +44,10 @@ In 2020, word about me and my work reached some people, leading me to create vid
 ![text description](Images/Green_4.jpg)
 ![text description](Images/Green_5.jpg)
 
-
 # The performance in Add (2018)
 ![text description](Images/Performance_1.png)
 ![text description](Images/Performance_2.png)
 ![text description](Images/Performance_3.png)
+
+### Contact me:
+**Mail**: haverla.tros@gmail.com
