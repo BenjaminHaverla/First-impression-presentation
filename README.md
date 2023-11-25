@@ -26,7 +26,7 @@ In 2020, word about me and my work reached some people, leading me to create vid
 
 ![text description](Images/Team.png)
 
-## The project I'm working on (2023 – ???)
+# The project I'm working on (2023 – ???)
 ![text description](Images/Still_shot_scene1.png)
 ![text description](Images/Still_shot_scene2.png)
 
