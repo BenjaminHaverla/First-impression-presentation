@@ -1,6 +1,6 @@
 # Visual storytelling is my passion:
 - [**ABOUT ME**](https://github.com/BenjaminHaverla/First-impression-presentation/blob/main/README.md#benjamín-haverla-filmmaker)
-- **FEATURED PROJECTS**
+- [**FEATURED PROJECTS**](https://github.com/BenjaminHaverla/First-impression-presentation/blob/main/README.md#about-my-featured-projects)
 
 ![text description](Images/Profile.png)
 
