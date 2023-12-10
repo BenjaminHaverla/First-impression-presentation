@@ -33,6 +33,12 @@ In 2020, word about me and my work reached some people, leading me to create vid
 ![text description](Images/Still_shot_scene1.png)
 ![text description](Images/Still_shot_scene2.png)
 
+This is my ambitious project where I am trying to infuse a part of my soul. Why did I start this project? Well, at my university, we are required to create a bachelor animation at the end of the last semester.
+
+Before this, I felt the need to express myself again with a theme of love. I've grown up, and I now perceive the world differently than before. My short film "THE LAST LETTER" was about love and was created in 2021.
+
+Perhaps you can find some connections there, but this new project will be an animated music video about love with a fresh point of view.
+
 ## Storyboard
 ![text description](Images/Storyboard_1.png)
 ![text description](Images/Storyboard_4.png)
