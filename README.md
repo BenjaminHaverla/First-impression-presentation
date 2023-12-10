@@ -51,11 +51,11 @@ We've officially completed 1 minute, but the music video will likely feature 4 m
 
 **Our Team:**
 
-Benjamín Haverla (Me) –> Director
+Benjamín Haverla (Me) –> Producer/Director
 
-Nataša Strelová –> Animator
+Nataša Strelová –> 2D Animator
 
-Oto Haverla –> Music Composer
+Oto Haverla (My Father) –> Music Composer
 
 # UKUPHILA – experimental project (2021)
 ![text description](Images/Green_1.jpg)
