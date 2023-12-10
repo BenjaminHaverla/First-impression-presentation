@@ -46,6 +46,17 @@ Perhaps you can find some connections there, but this new project will be an ani
 ![text description](Images/Storyboard_4.png)
 ![text description](Images/Storyboard_5.png)
 
+## Challenges:
+We've officially completed 1 minute, but the music video will likely feature 4 minutes of animation. So, there's still a lot ahead of us. I created the storyboard and animatic for my friend, Nataša Strelová. She excels at hand-drawn animation, which is why I chose to collaborate with her.
+
+**Our Team:**
+
+Benjamín Haverla (Me) –> Director
+
+Nataša Strelová –> Animator
+
+Oto Haverla –> Music Composer
+
 # UKUPHILA – experimental project (2021)
 ![text description](Images/Green_1.jpg)
 ![text description](Images/Green_2.jpg)
