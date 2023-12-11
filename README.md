@@ -61,6 +61,11 @@ Oto Haverla (My Father) –> Music Composer
 ![text description](Images/Green_1.jpg)
 ![text description](Images/Green_2.jpg)
 ![text description](Images/Green_3.jpg)
+
+## About this project:
+
+We received a task from our teacher that required us to create a video using only our hands, and it should be about Life Creation. I realized that a fast and effective option would be to create a hand performance using a green screen. This way, I generated additional characters, took advantage of the green screen, and transformed everything with an engaging black silhouette style.
+
 ![text description](Images/Green_4.jpg)
 ![text description](Images/Green_5.jpg)
 
