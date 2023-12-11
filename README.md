@@ -75,6 +75,10 @@ My inspiration came from our philosophy teacher, who spoke in interesting ways a
 
 # The performance in Add (2018)
 ![text description](Images/Performance_1.png)
+
+## The story of how I became the main actor in the student ISIC add:
+I created a music video for the Slovak MobileFest competition and received the 1st Award place. They loved both my idea and performance, leading to the opportunity for me to collaborate with them as the main character.
+
 ![text description](Images/Performance_2.png)
 ![text description](Images/Performance_3.png)
 
