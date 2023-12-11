@@ -69,6 +69,10 @@ We received a task from our teacher that required us to create a video using onl
 ![text description](Images/Green_4.jpg)
 ![text description](Images/Green_5.jpg)
 
+## Inspiration:
+
+My inspiration came from our philosophy teacher, who spoke in interesting ways about cultures, nomads, etc. I decided to combine her lessons with my beliefs.
+
 # The performance in Add (2018)
 ![text description](Images/Performance_1.png)
 ![text description](Images/Performance_2.png)
